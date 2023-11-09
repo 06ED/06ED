@@ -15,8 +15,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ED&layout=compact&theme=gruvbox&text_color=6BFF5A&count_private=true&title_color=38FFE1&include_all_commits=true&hide_border=false&bg_color=bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF&exclude_repo=uni-math-notes&langs_count=6&card_width=350" height=155 alt=""></a>
 
 ## Find me in...
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/765870589222191125?borderRadius=25px&idleMessage=Sleep...&bg=2c040c)](https://discord.com/users/765870589222191125)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1130421440471121950?borderRadius=25px&idleMessage=Sleep...&bg=2c040c)](https://discord.com/users/1130421440471121950
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsbest123@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/765870589222191125/)
