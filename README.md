@@ -1,8 +1,5 @@
 <div align="center">
 
-## About me
-![](header.png)
-
 ## Stats
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=06ED&count_private=true&title_color=38FFE1&text_color=6BFF5A&bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF)
