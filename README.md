@@ -13,11 +13,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-## Tools
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ED&layout=compact&theme=gruvbox&text_color=6BFF5A&count_private=true&title_color=38FFE1&include_all_commits=true&hide_border=false&bg_color=bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF&exclude_repo=uni-math-notes&langs_count=6&card_width=350" height=155 alt=""></a>
