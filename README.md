@@ -1,12 +1,5 @@
 <div align="center">
 
-## Stats
-
-![Overview](https://github-readme-stats.vercel.app/api?username=06ED&count_private=true&title_color=38FFE1&text_color=6BFF5A&bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF)
-<p align="center">
-  <img src="https://count.getloli.com/get/@06ED?theme=gelbooru"  alt=""/>
-</p>
-
 ## Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -26,8 +19,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Frameworks and languages I'm using
+## Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ED&layout=compact&theme=gruvbox&text_color=6BFF5A&count_private=true&title_color=38FFE1&include_all_commits=true&hide_border=false&bg_color=bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF&exclude_repo=uni-math-notes&langs_count=6&card_width=350" height=155 alt=""></a>
+
+![Overview](https://github-readme-stats.vercel.app/api?username=06ED&count_private=true&title_color=38FFE1&text_color=6BFF5A&bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF)
+<p align="center">
+  <img src="https://count.getloli.com/get/@06ED?theme=gelbooru"  alt=""/>
+</p>
 
 ## Find me in...
 ![Discord Presence](https://lanyard.cnrad.dev/api/1130421440471121950?borderRadius=25px&idleMessage=Sleep...&bg=2c040c)
