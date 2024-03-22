@@ -19,6 +19,7 @@
 ## Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ED&layout=compact&theme=gruvbox&text_color=6BFF5A&count_private=true&title_color=38FFE1&include_all_commits=true&hide_border=false&bg_color=bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF&exclude_repo=uni-math-notes&langs_count=6&card_width=350" height=155 alt=""></a>
 
+
 ![Overview](https://github-readme-stats.vercel.app/api?username=06ED&count_private=true&title_color=38FFE1&text_color=6BFF5A&bg_color=20,AC05FF,FF1F5D,FF4FAF,AC05FF)
 <p align="center">
   <img src="https://count.getloli.com/get/@06ED?theme=gelbooru"  alt=""/>
