@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Hi! I'm student, mostly coding on dart flutter 😼. 
+### 👋 Hi! I'm student, mostly coding on flutter 😼. 
   
 ## Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
