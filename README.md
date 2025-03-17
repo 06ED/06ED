@@ -26,8 +26,6 @@
 </p>
 
 ## Find me in...
-![Discord Presence](https://lanyard.cnrad.dev/api/1130421440471121950?borderRadius=25px&idleMessage=Sleep...&bg=2c040c)
-<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsbest123@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/765870589222191125/)
 </div>
